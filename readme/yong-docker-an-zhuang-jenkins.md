@@ -38,6 +38,6 @@ docker run -d \
 
 5. 確認Jenkins URL
 
-```
+```url
 http://localhost:8080
 ```
